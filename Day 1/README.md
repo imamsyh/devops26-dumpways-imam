@@ -17,6 +17,8 @@ DevOps adalah perantara atau penghubung antara tim development dengan tim operat
 3.	Gunakan IP Address xxx.xxx.xxx.208 untuk server VM kalian!
  Jawab :
 -	Pada network configuration edit IPv4 sesuai dengan  ip yang sedang tersambung dengan perangkat (192.168.100.208), lalu pada name  server gunakan dns 8.8.8.8,  8.8.4.4
+<img width="1920" height="1080" alt="Screenshot 2026-01-28 080829" src="https://github.com/user-attachments/assets/665b4e79-9f74-460d-8443-a155227e41cf" />
+
 4.	Pastikan Ubuntu Server kalian ada jaringan dengan test menggunakan command ping 8.8.8.8 / ping google.com
  Jawab :
 -	Setelah input username  dan password lalu ketik ping 8.8.8.8 untuk test ping kalau terminal mengembalikan report berarti server sudah berhasil dijalankan
