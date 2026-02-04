@@ -21,4 +21,5 @@
 <img width="1920" height="1080" alt="Screenshot 2026-02-04 152709" src="https://github.com/user-attachments/assets/c4be66db-71f3-4db7-bc47-819d2ebcd33b" />
 
 5. Demokan cara untuk mencari perubahan text pada suatu file di GitHub!
-
+- untuk mencari perubahan text di github bisa dilihat saat pembuatan tugas ini, caranya pergi ke file tujuan, lalu di kanan atas ada history lalu tekan salah satu update dan didalamnya terdapat keterangan teks yang di update
+<img width="1920" height="1080" alt="Screenshot 2026-02-04 154951" src="https://github.com/user-attachments/assets/768b712f-67dd-4987-9089-ff0de9fbc80d" />
