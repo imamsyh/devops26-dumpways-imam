@@ -23,3 +23,7 @@
 5. Demokan cara untuk mencari perubahan text pada suatu file di GitHub!
 - untuk mencari perubahan text di github bisa dilihat saat pembuatan tugas ini, caranya pergi ke file tujuan, lalu di kanan atas ada history lalu tekan salah satu update dan didalamnya terdapat keterangan teks yang di update
 <img width="1920" height="1080" alt="Screenshot 2026-02-04 154951" src="https://github.com/user-attachments/assets/768b712f-67dd-4987-9089-ff0de9fbc80d" />
+
+- bisa juga melihat melihat file yang di update dari terminal, terdapat kalimat modified : file3
+- pada gambar juga melakukan commit dan push ke repo di github yang mana file tersebut akan terupdate didalam github. ini juga merupakan salah satu contoh manage repository sederhana untuk soal no3
+<img width="1920" height="1080" alt="Screenshot 2026-02-04 155856" src="https://github.com/user-attachments/assets/0fba311a-884f-4ba8-9606-a8bd7f0eb87c" />
