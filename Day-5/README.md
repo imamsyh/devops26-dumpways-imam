@@ -25,6 +25,18 @@ Jawab :
 Python
 - Deploy app menampilkan text nama kalian!
 - Berjalan di port 5000 & bisa dibuka melalui web
+Jawab :
+- Berbeda dengan NodeJS, kita tidak perlu install python karena ubuntu sudah terdapat python3 di dalamnya. Namun kita harus menginstal pip(package) dengan cara sudo apt install pyhon3-pip
+- setalah itu kita buat direktori python dan menginstal flask didalamnya dengan cara pip install flask
+<img width="1115" height="628" alt="Screenshot 2026-02-05 180942" src="https://github.com/user-attachments/assets/1af8fa2e-04e2-401a-a709-aadd611cddb4" />
+
+- lalu buat file index.py yang berisi tentang konfigurasi sederhana tentang app yang akan kita deploy
+<img width="1115" height="628" alt="Screenshot 2026-02-05 181100" src="https://github.com/user-attachments/assets/10dfd08c-2fad-4357-b865-67553f8a2dd1" />
+
+- lalu jalankan file tersebut dengan cara python3 index.py dan kita melihat di web dengan mengetik ipserver:port
+<img width="1920" height="1080" alt="Screenshot 2026-02-05 181656" src="https://github.com/user-attachments/assets/0712bdcb-2286-469f-b28a-059eaeff2db2" />
+
+
 
 Golang
 - Deploy app menampilkan text "Golang geming!"
