@@ -7,7 +7,8 @@ Challenge App On Background :
 1. NodeJS + Python berjalan di background (tanpa kondisi attached di terminal)
 - menjalankan dengan nohup (no hang up) dengan command nohup <command> > <logfile> 2>&1 &
 - jalankan command di dalam direktori masing-masing, lalu jalankan di web
-<img width="1920" height="1080" alt="Screenshot 2026-02-07 141038" src="https://github.com/user-attachments/assets/e26302ca-5e1e-4260-8270-a8746d2d5a3f" />
+<img width="1920" height="1030" alt="Screenshot 2026-02-07 141038" src="https://github.com/user-attachments/assets/be22d908-f102-4d19-9781-c93b296caf25" />
 
-- untuk mematikan dengan cara kill <PID> , bisa melihat PID yang berjalan di sudo lsof -i :port
-<img width="1920" height="1080" alt="Screenshot 2026-02-07 141935" src="https://github.com/user-attachments/assets/26e77b75-3b11-4442-aec6-018b6a6a1ebd" />
+- untuk mematikan dengan cara kill PID , bisa melihat PID yang berjalan di sudo lsof -i :port
+<img width="1920" height="1019" alt="Screenshot 2026-02-07 141935" src="https://github.com/user-attachments/assets/0479741d-973b-45c6-98f0-8ebf6e26ab03" />
+
