@@ -6,7 +6,8 @@ Challenge Load Balancing:
   - Least Connections
 -------------------------------------------------------------------------------------------
 1. Terapkan Load Balancing untuk wayshub-frontend menggunakan 2 server dengan spek yang sama
--Round Robin
+
+-Round Robin : cara kerja dari round robin yaitu dengan membagi request dari client secara bergantian ke semua server yang di setting
 
 step:
 - buat server untuk set lb
@@ -25,7 +26,7 @@ step:
 -jalankan nohup agar bisa test dengan curl domain dan jalankan di web dengan mengetik domain yang sudah di set
 <img width="1920" height="1030" alt="Screenshot 2026-02-08 202252" src="https://github.com/user-attachments/assets/3bc2a3ae-39e4-4f63-ad16-82a9605b40ee" />
 
-- Ip Hash
+- Ip Hash : cara kerja dari Ip Hash yaitu dengan cara semua request dari ip client yang sama akan di arahkan ke server yang sama, jadi 1 ip = 1 server, namun jika ada kondisi server tujuan mati maka akan dialihkan sementara ke server  lain
 
 step: 
 - karena disini saya hanya merubah set pada konfigurasi file, maka untuk step dari installasi sama dengan rr
